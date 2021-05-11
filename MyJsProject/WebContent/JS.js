@@ -15,3 +15,6 @@ function mul (a,b) {
 	return a*b;
 	
 }
+calculate(x,y){
+	console.log(x+y);
+}
